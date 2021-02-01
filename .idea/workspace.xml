@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd4ae5af-8f1b-4911-a7dd-3ea7a9e79836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/imports/ui/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/Hello.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/imports/ui/Hello.jsx" afterDir="false" />
+    <list default="true" id="cd4ae5af-8f1b-4911-a7dd-3ea7a9e79836" name="Default Changelist" comment="final push to hello meteor">
+      <change beforePath="$PROJECT_DIR$/app/client/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/client/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +39,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612190177477</updated>
-      <workItem from="1612190181910" duration="2138000" />
+      <workItem from="1612190181910" duration="2326000" />
     </task>
+    <task id="LOCAL-00001" summary="final push to hello meteor">
+      <created>1612192844840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612192844840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final push to hello meteor" />
+    <option name="LAST_COMMIT_MESSAGE" value="final push to hello meteor" />
   </component>
 </project>
